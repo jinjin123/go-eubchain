@@ -22,8 +22,8 @@ import (
 	"io"
 	"sort"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/internal/debug"
+	"github.com/eubchain/go-eubchain/cmd/utils"
+	"github.com/eubchain/go-eubchain/internal/debug"
 	"gopkg.in/urfave/cli.v1"
 	"strings"
 )

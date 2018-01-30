@@ -19,9 +19,9 @@ package keystore
 import (
 	"math/big"
 
-	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/core/types"
+	ethereum "github.com/eubchain/go-eubchain"
+	"github.com/eubchain/go-eubchain/accounts"
+	"github.com/eubchain/go-eubchain/core/types"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

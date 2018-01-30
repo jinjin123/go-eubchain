@@ -25,13 +25,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/eubchain/go-eubchain/common"
+	"github.com/eubchain/go-eubchain/core/state"
+	"github.com/eubchain/go-eubchain/core/types"
+	"github.com/eubchain/go-eubchain/event"
+	"github.com/eubchain/go-eubchain/log"
+	"github.com/eubchain/go-eubchain/metrics"
+	"github.com/eubchain/go-eubchain/params"
 	"gopkg.in/karalabe/cookiejar.v2/collections/prque"
 )
 

@@ -22,7 +22,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/eubchain/go-eubchain/log"
 	"gopkg.in/urfave/cli.v1"
 )
 

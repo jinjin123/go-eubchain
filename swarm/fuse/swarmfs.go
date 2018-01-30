@@ -17,7 +17,7 @@
 package fuse
 
 import (
-	"github.com/ethereum/go-ethereum/swarm/api"
+	"github.com/eubchain/go-eubchain/swarm/api"
 	"sync"
 	"time"
 )
