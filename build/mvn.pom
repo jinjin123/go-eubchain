@@ -10,7 +10,7 @@
   <packaging>aar</packaging>
 
   <name>Android Ethereum Client</name>
-  <description>Android port of the go-ethereum libraries and node</description>
+  <description>Android port of the go-eubchain libraries and node</description>
   <url>https://github.com/eubchain/go-eubchain</url>
   <inceptionYear>2015</inceptionYear>
 
